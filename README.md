@@ -6,7 +6,7 @@ Provides the ability to select an icon or a glyph.
 
 ## Supported glyphs
 
-- Font Awesome (v5.8.1)
+- Font Awesome (v6.4.2)
 - Dashicons
 - Custom
 

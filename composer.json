@@ -6,6 +6,12 @@
     "license": "GPL-2.0+",
     "authors": [
         {
+            "name": "RiptideWebUK",
+            "email": "will@riptideweb.co.uk",
+            "homepage": "https://riptideweb.co.uk",
+            "role": "Developer"
+        },
+        {
             "name": "htmlBurger",
             "email": "wordpress@htmlburger.com",
             "homepage": "https://htmlburger.com/",
